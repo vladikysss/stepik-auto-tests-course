@@ -1,5 +1,5 @@
 # Репозиторий с решением заданий по курсу 
-Автоматизация тестирования с помощью Selenium и Python   -   https://stepik.org/course/575/syllabus
+Автоматизация тестирования с помощью Selenium и Python  -  https://stepik.org/course/575/syllabus
 
 Тут собраны исходники решений заданий по курсу 
 
